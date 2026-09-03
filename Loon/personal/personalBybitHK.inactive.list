@@ -1,0 +1,4 @@
+# Backup only; do not enable together with personalBybitSG.list.
+# Both files match the same domain and the earlier rule wins.
+
+DOMAIN-SUFFIX,bybit.com
